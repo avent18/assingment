@@ -5,7 +5,9 @@ this is a small application made with using nodejs+express integrated with gitHu
 
 ## Tech stack i have used 
 -nodejs  ->runtime environment
+
 -expressjs -> server creation
+
 -axios  -> for fetching data from api
 
 
