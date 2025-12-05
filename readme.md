@@ -17,6 +17,7 @@ this is a small application made with using nodejs+express integrated with gitHu
 ## api end points
 -localhost:3000/repos
             provide api query parameters
+            
 -localhost:3000/repos/userName/repoName
 
 ## to run
