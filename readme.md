@@ -22,6 +22,9 @@ this is a small application made with using nodejs+express integrated with gitHu
 
 ## to run
 -git clone<repo-name>
+
 -cd GLOBAL TRENDS
+
 -npm install
+
 -node src/index.js 
